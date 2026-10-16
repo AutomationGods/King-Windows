@@ -1,18 +1,53 @@
 # Changelog
 
-Every King for Windows release, newest first. Each version lists what changed in King itself; Windows-specific notes are marked **Windows**.
+Every version of King, newest first. Versions with a Windows download have a **Windows** section first; the rest is what changed in King itself.
 
-## 1.8.0 for Windows — first Windows release (16 October 2026)
+## 1.10.0 — 3D products and worlds (Windows release, 16 October 2026)
 
 **Windows**
 
-- King now runs on Windows 10 and 11 (64-bit). Download `King-1.8.0-x64-Setup.exe` to install it, or `King-1.8.0-x64-Portable.exe` to run it without installing.
+- Brings Windows up to date with the Mac: includes 1.8.1, 1.9.0 and 1.10.0 below.
+- Already have 1.8.0 installed? Open **Settings** (the gear in the sidebar), click **Check**, then download and restart. Or download the new Setup file and run it; your library, settings and API keys are kept.
+- Portable users: download the new Portable file and use it instead of the old one.
+- Still not code-signed: if Windows shows "Windows protected your PC", click **More info**, then **Run anyway**.
+
+**What's new in King**
+
+Build a 3D model once, then get every angle of the same product or place.
+
+- Products → Create reference sheet → 360° sheet: “Build 3D model” (about $0.30) gives every angle from one shape, for any product.
+- Brand → Environments → “3D world”: build a 3D scene once (about $0.05), then 9 camera views of the same place, free.
+- Make a view sheet in any style: photoreal, anime, 3D animated, watercolor, claymation, noir or neon.
+- All 3D views are drawn on your computer for free; only building the model and the final sheet are paid, and both ask first.
+
+## 1.9.0 — Form Library and exact label wraps
+
+Real-world product shapes, and side views that wrap your label like the real thing.
+
+- Brand → Form Library: collect real photos of cans, bottles, jars, tubes, boxes, cars, anything, from every angle.
+- Not in your library? Search the internet for free, openly licensed photos (with creator and licence kept).
+- Pick a form on a product so AI copies a real object’s shape, lid and curves.
+- Round products: King wraps your label sheet around the product exactly, so side views show half front and half back, then AI makes it photoreal.
+
+## 1.8.1 — Sheets that match the real thing
+
+Product and character sheets now follow the method more closely.
+
+- 360° product sheet: 8 turntable views including the top and bottom, wrapping your label sheet around the product like the real thing.
+- A new base character shot becomes the character’s main photo automatically, and the 360° turnaround is built from it, so the outfit stays the same.
+- Adding photos to a character no longer marks their identity pack out of date.
+
+## 1.8.0 — Your consistency playbook, built in (Windows release, 16 October 2026)
+
+**Windows**
+
+- First Windows release. King runs on Windows 10 and 11 (64-bit): download the Setup file to install it, or the Portable file to run it without installing.
 - The installer lets you choose the install folder and adds Start menu and desktop shortcuts. Uninstall it from Settings → Apps; your library, settings and API keys stay on the PC.
 - King uses the standard Windows title bar, with minimise, maximise and close buttons. Press Alt to show the menu bar.
 - The installed version checks this page for new Windows releases. To update the portable version, download the new file.
 - This build isn't code-signed yet, so the first time you open it Windows shows "Windows protected your PC". Click **More info**, then **Run anyway**.
 
-## 1.8.0 — Your consistency playbook, built in
+**What's new in King**
 
 King now follows the GenHQ character, product and shot methods from your course notes.
 
