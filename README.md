@@ -6,20 +6,20 @@ This page is for **Windows**. The Mac version is separate and updates itself.
 
 ## Download
 
-**[⬇ Download the latest version for Windows](https://github.com/AutomationGods/King-Windows/releases/latest)**
+Click one to download it straight away. Latest version: **1.8.0**.
 
-On the release page, under **Assets**, pick one:
-
-| File | What it is |
+| Download | What it is |
 | --- | --- |
-| `King-<version>-x64-Setup.exe` | **Recommended.** Installs King, adds Start menu and desktop shortcuts, and updates itself. |
-| `King-<version>-x64-Portable.exe` | One file, nothing to install. Double-click to run. Starts a little slower, and you download each new version yourself. |
+| **[⬇ King-1.8.0-x64-Setup.exe](https://github.com/AutomationGods/King-Windows/releases/download/v1.8.0/King-1.8.0-x64-Setup.exe)** (505 MB) | **Recommended.** Installs King, adds Start menu and desktop shortcuts, and updates itself. |
+| **[⬇ King-1.8.0-x64-Portable.exe](https://github.com/AutomationGods/King-Windows/releases/download/v1.8.0/King-1.8.0-x64-Portable.exe)** (505 MB) | One file, nothing to install. Double-click to run. Starts a little slower, and you download each new version yourself. |
+
+All versions and their notes: [Releases](https://github.com/AutomationGods/King-Windows/releases/latest).
 
 You need Windows 10 or 11 (64-bit), and about 1 GB of free disk space.
 
 ## Install
 
-1. Download `King-<version>-x64-Setup.exe` from the link above.
+1. Download `King-1.8.0-x64-Setup.exe` from the link above.
 2. Double-click it.
 3. If Windows shows **"Windows protected your PC"**, click **More info**, then **Run anyway**. This appears because the app isn't code-signed yet.
 4. Pick where to install it (or keep the default) and click **Install**.
