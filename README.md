@@ -2,7 +2,7 @@
 
 King is the desktop command center for e-commerce creative: generate product shots, manage products, characters and prompts, and run your stores and ad accounts from one app.
 
-This page is for **Windows**. The Mac version is separate and updates itself.
+This page is for **Windows**. The Mac version is separate and updates itself. On an Android phone? Get [King for Android](https://github.com/AutomationGods/King-Android).
 
 ## Download
 
